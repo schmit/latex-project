@@ -14,6 +14,9 @@ chmod +x setup.sh build.sh
 ./setup.sh 
 ```
 
+If you don't want to initialize a git repo, you don't have to run `./setup.sh`.
+However, make sure you create a `./pdf` directory for the output.
+
 ## Use
 
 Run 
@@ -22,7 +25,7 @@ Run
 ./build.sh
 ```
 
-to build the pdf using `pdflatex`. The pdf is then moved to the /pdf directory.
+to build a pdf using `pdflatex`. The pdf is then moved to the `./pdf` directory.
 
 ## Customize
 
