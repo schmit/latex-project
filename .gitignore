@@ -1,0 +1,7 @@
+# For macs
+.DS_Store
+
+# Ignore pdfs
+pdf/*
+
+
