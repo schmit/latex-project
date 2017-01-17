@@ -9,7 +9,7 @@ rm -rf .git
 # initialize new repo
 git init
 
-git add build.sh
+git add Makefile
 git add tex/*.tex
 git add base/*.tex
 git add bib/bibliography.bib
