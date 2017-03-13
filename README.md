@@ -10,7 +10,7 @@ Clone the repo, and run `setup.sh` to create a new git repo with relevant files 
 ```
 git clone git@github.com:schmit/latex-project.git
 cd latex-project
-chmod +x setup.sh build.sh
+chmod +x setup.sh
 ./setup.sh
 ```
 
