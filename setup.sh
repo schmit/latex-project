@@ -14,6 +14,9 @@ git add tex/*.tex
 git add base/*.tex
 git add bib/bibliography.bib
 
+git add .gitignore
+git add README.md
+
 git commit -am "Initial commit"
 
 # create directory for output
